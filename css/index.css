@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: arial, sans-serif;
+  font-size: 18px;
+}
+
+nav{
+  background-color: #e3f2fd;
+}
+
+.footer{
+  color:#001064;
+  font-size: 14px;
+  padding: 1px;
+  padding-top: 0;
+}
+
+div.container-fluid {
+  display: flex;
+  flex-direction: column;
+}
+
+header, main, footer {
+  padding: 10px;
+  margin: 10px;
+}
+
+p {
+  color: #01579b;
+  padding: 10px;
+  padding-top: 0;
+  margin: 10px 5px 10px 5px;
+}
+
+h2 {
+  color: #001064;
+}
